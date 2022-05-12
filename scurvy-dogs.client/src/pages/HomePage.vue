@@ -5,8 +5,8 @@
         <Boss />
       </div>
     </div>
-  </div>
 </template>
+
 
 <script>
 export default {
@@ -15,3 +15,15 @@ export default {
 </script>
 
 <style scoped lang="scss"></style>
+
+  setup() {
+    return {}
+  }
+}
+</script>
+
+
+<style lang="scss" scoped>
+
+</style>
+
