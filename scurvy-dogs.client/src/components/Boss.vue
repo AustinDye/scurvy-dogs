@@ -7,7 +7,7 @@
         <h4 class="mt-3">Mango Mangler</h4>
       </span>
       <h5 class="ps-5 mb-4">
-        Diffictuly: <i class="mdi mdi-star"></i>
+        Diffictulyy: <i class="mdi mdi-star"></i>
         <i class="mdi mdi-star"></i>
         <i class="mdi mdi-star"></i>
       </h5>
