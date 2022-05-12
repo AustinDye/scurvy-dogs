@@ -1,5 +1,5 @@
 <template>
-  <div class="">
+  <div class="ahh">
     <div class="row">
       <div class="col-md-6">
         <Boss />
