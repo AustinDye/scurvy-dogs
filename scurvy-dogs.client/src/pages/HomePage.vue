@@ -1,16 +1,17 @@
 <template>
-  <div class="container">
-    <div class="row">Boss</div>
-    <div class="row">Lobby information</div>
-    <div class="row">Player stats</div>
+  <div class="">
+    <div class="row">
+      <div class="col-md-6">
+        <Boss />
+      </div>
+    </div>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Home'
-}
+  name: "Home",
+};
 </script>
 
-<style scoped lang="scss">
-</style>
+<style scoped lang="scss"></style>
