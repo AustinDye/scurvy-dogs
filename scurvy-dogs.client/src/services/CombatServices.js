@@ -6,10 +6,12 @@ class CombatServices {
    
   }
  
- async dodgeAttack() {
+ async dodgeAttack(id) {
   
  }
 
- async 
+ async calculateDamage() {
+  
+ }
 
 }
